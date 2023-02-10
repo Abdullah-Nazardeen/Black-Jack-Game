@@ -9,3 +9,4 @@ card A = 1,
 card J = 11,
 card Q = 12,
 card K = 13.
+### Mainly uses JavaScript to run the all game.
